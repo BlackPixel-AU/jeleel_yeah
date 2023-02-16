@@ -1,4 +1,4 @@
-# Jeleel Powershell script
+# Jeleel Powershell Script
 
 ![alt text](https://i.kym-cdn.com/photos/images/newsfeed/002/356/227/124.jpg)
 
