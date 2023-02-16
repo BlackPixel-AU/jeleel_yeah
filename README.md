@@ -1,4 +1,5 @@
-# jeleel_yeah
+# Jeleel Powershell script
+
 ![alt text](https://i.kym-cdn.com/photos/images/newsfeed/002/356/227/124.jpg)
 
 Born from a meme on the uni Discord server, is pretty much PUP. 
