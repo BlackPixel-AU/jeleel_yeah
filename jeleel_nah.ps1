@@ -43,7 +43,7 @@ $ps1_file = "C:\Users\Public\jeleel_yeah.ps1"
 remove-item $ps1_file
 
 #remove start bat
-Write-Host "Removingjeleel_start.bet from" $bat_file
+Write-Host "Removingjeleel_start.bat from" $bat_file
 $bat_file = "$Home\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\jeleel_start.bat"
 remove-item $bat_file
 
