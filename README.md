@@ -13,7 +13,7 @@ You may need to enable Powershell scripts by running `Set-ExecutionPolicy -Scope
 
 
 ## ✨ Version 1.1 
-- Fixed issue that stopped login batch file from being created correctly. 
+- Fixed issue that stopped the login batch file from being created correctly. 
 - Wrapped most functions in a try-catch for exceptions. 
 - Script will now check if files exist before overwriting them.
 - Replaced some hard-coded items with variables. 
